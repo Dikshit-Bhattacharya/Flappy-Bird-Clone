@@ -1,6 +1,6 @@
 # Flappy-Bird-Clone
 
-
+![Flappy Bird Screenshot](https://github.com/Dikshit-Bhattacharya/Flappy-Bird-Clone/blob/main/Flappy-Bird-Clone/src/Screenshot%202025-07-07%20011459.png?raw=true)
 
 🐤 Flappy Bird Clone (Java + Swing)
 A simple Flappy Bird clone built using pure Java and Swing! This desktop version of the iconic game features smooth gameplay, randomly generated pipes, gravity physics, scoring, and a pixel-perfect collision system — all in under 300 lines of code.
